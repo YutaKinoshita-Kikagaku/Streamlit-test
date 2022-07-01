@@ -2,3 +2,6 @@ streamlit
 numpy
 pandas
 scikit-learn
+requests
+json
+plotly.express
